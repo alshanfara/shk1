@@ -863,7 +863,7 @@ a#asim7 {
 
 font.asim12 {
     border: 1px dotted#f0ad4e;
-    background-color: #bd0000;
+    background-color: #6b2bf1;
     padding: 1px 10px 3px 4px;
     color: #fff;
     border-radius: 1px;
@@ -875,7 +875,7 @@ font.asim12 {
     border-left-style: double;
     border-right-style: double;
     font-family: 'jazeera',FontAwesome;
-    font-size: 13px!important
+    font-size: 13px!important;
 }
 
 font.asim11 {
