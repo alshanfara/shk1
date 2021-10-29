@@ -62,12 +62,13 @@ ul.nav.nav-tabs.fl li a:hover {
         color: #b1d0e3;
         border-radius: none;
      }
+
 ul.nav.nav-tabs.fl li .fa-user-plus:before {
     color: red;
     content: "\f097";
     -webkit-animation: mymove .5s infinite;
     animation: mymove .5s infinite
-}
+     }
 
 @-webkit-keyframes mymove {
     from {
@@ -884,7 +885,7 @@ font.asim12 {
 }
 
 font.asim11 {
-    background-color: #008fae;
+    background-color: #6b2bf1;
     padding: 1px 0 2px;
     color: #fff;
     border-radius: 1px;
