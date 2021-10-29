@@ -674,13 +674,7 @@ div#tlogins ::-webkit-scrollbar-track:active {
     background: #fff
 }
 
-div#tlogins img.fitimg.fl.u-pic {
-    background-size: cover;
-    border-radius: 3px!important;
-    padding: 18px;
-    border: 1px solid#e8e8e8;
-    margin-top: -1px!important
-}
+
 
 div#tlogins ::-webkit-scrollbar-corner {
     background: transparent
