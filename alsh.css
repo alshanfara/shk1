@@ -1040,6 +1040,8 @@ a#asim7 {
     background-repeat: repeat;
     border-bottom: 0 solid#e1e1e1;
     -webkit-transform: matrix(1,0,0,1,0,-13)!important;
+    background-image: linear-gradient(
+90deg,#008fae 0,rgb(0 143 174) 10%,rgb(0 143 174) 51%,rgb(107 43 241) 51%,#008fae 100%);
 }
 
 iframe#smoke1 {
