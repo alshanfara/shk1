@@ -58,7 +58,13 @@ ul.nav.nav-tabs.fl li a:hover {
     background-color: #1f1e1e;
     color: #fff;
 }
+.checkbox label {
+        color:#111010;
 
+        border-radius: none
+
+
+     }
 ul.nav.nav-tabs.fl li .fa-user-plus:before {
     color: red;
     content: "\f097";
