@@ -825,10 +825,7 @@ label.ae.fa.label.fa-users.btnClAlGr.label-warning {
 
 label.ae.fa.label.fa-users.btnClAlGr.label-warning,label.ae.fa.label.fa-users.btnClAlGr.label-primary {
     padding: 7px 5px 5px 13px
-}
 
-.fa-user-times:before {
-    display: none
 }
 
 label.addGruMsg.label.tc.border.btn.label-info.fl {
