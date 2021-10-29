@@ -841,7 +841,7 @@ ul.nav.nav-tabs {
     margin-top: 20px;
     border-left: 2px solid #ff0000;
     border-right: 2px solid #ff0000;
-    background-image: -webkit-linear-gradient(45deg,#ffffff 25%,#000000 25%,#3a3c3c 50%,#a90808db 25%,#8f0303fa ,#560000)!important;
+    background-image: -webkit-linear-gradient( 45deg ,#c90707 25%,#5f0707 45%,#060606 25%,#080808 50%,#181717 100%)!important;
 
     background: #ebebeb
 }
