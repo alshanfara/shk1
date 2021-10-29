@@ -539,7 +539,11 @@ label.fl.label.loginstat {
     padding: 3px 6px 2px 8px !important;
     margin-top: 6px!important;
     font-size: 14px!important;
-    margin-left: -4px!important
+    margin-left: -4px!important;
+    -webkit-transform: matrix(1,0,0,1,0,133)!important;
+    color: #ffffff;
+    background: #008fae;
+    width: 13%!important;
 }
 
 
@@ -709,6 +713,7 @@ div#tlogins .fade {
     position: absolute;
     margin: 22px 0 0 147px;
     height: 110px;
+    -webkit-transform: matrix(1,0,0,1,0,163)!important;
 }
 
 button.btn.btn-default {
@@ -797,7 +802,8 @@ input#u1,input#u2,input#pass1,input#u3,input#pass2 {
     margin: 0 0 5px -5.5px !important;
     width: 97%;
     height: 28px;
-    border: 1px solid #008fae;
+    px; */
+    /* border: 1px solid #008fae; */
     border-radius: 0;
     text-align: center;
     border-style: solid;
@@ -1033,6 +1039,7 @@ a#asim7 {
     border-radius: 0;
     background-repeat: repeat;
     border-bottom: 0 solid#e1e1e1;
+    -webkit-transform: matrix(1,0,0,1,0,-13)!important;
 }
 
 iframe#smoke1 {
