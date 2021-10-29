@@ -253,6 +253,7 @@ button.fa.fa-send.sndpm.fl.btn.btn-primary {
 
 
 .btn.hand.borderg.corner {
+    
 }
 
     /* margin: 0!important; */
@@ -297,9 +298,9 @@ img.fl.emobc {
 .popover.right {
     max-width: initial;
     overflow: auto;
-    width: auto;
+    width: 130%;
     margin-left: -109px;
-    height: 369px
+    height: 450px;
 }
 
 .popover.fade.top.in {
