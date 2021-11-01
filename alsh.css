@@ -5,7 +5,7 @@ border-radius: 90px 90px 90px 90px;
 
 }
 div#settings>.borderg.corner>div>.label.label-primary {
-    float: right;
+    float: left;
     min-width: 50%;
 }
 
@@ -52,7 +52,8 @@ div#settings>.borderg.corner>div>input.stopic, div#settings>.borderg.corner>div>
 div#settings>.borderg.corner>div>input {
     border-radius: 15px;
     text-align: center;
-    width:40%!important;
+    width:50%!important;
+border:1px solid #008fae;
 }
 
 
