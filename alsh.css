@@ -96,7 +96,7 @@ ul.nav.nav-tabs.fl li a:hover {
         border-radius: none;
      }
 
-#des22.label.label-primary{
+#des22.label.label-primary,div#tlogins button.btn.btn-primary{
     color: #13cbbf0f;
     content: "\f097";
     -webkit-animation: mymove 1.s infinite;
