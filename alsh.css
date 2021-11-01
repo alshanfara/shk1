@@ -4,10 +4,32 @@
 border-radius: 90px 90px 90px 90px;
 
 }
+div#settings>.borderg.corner>div>.label.label-primary {
+    float: right;
+    min-width: 50%;
+}
+
 .fa-dot-circle-o:before {
     content: "\f0e0";
     -webkit-animation: mymove .5s infinite;
-    animation: mymove 1.5s infinite
+    animation: mymove 1.101s infinite
+}
+div#settings>.borderg.corner>div>a {
+    width: 100%;
+    background-color: #ffffff!important;
+    color: #5CB85F;
+    border-radius: 15px;
+    border: 1px
+ solid #5CB85F;
+    border-width: 1px 3px;
+    text-align: center;
+    margin: 20px;
+}
+div#settings>.borderg.corner>div>input.stopic, div#settings>.borderg.corner>div>input.smsg {
+    width: 99%!important;
+    margin: 5px 1px;
+    border:1px solid #008fae;
+    border-radius:10px 10px 10px 10px;
 }
 
 @font-face {
@@ -27,7 +49,11 @@ border-radius: 90px 90px 90px 90px;
     text-decoration: none;
     font-family: 'jazeera',FontAwesome
 }
-
+div#settings>.borderg.corner>div>input {
+    border-radius: 15px;
+    text-align: center;
+    width:40%!important;
+}
 
 
 
