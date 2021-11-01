@@ -96,16 +96,16 @@ ul.nav.nav-tabs.fl li a:hover {
         border-radius: none;
      }
 
-ul.nav.nav-tabs.fl li .fa-user-plus:before {
-    color: red;
+ul.nav.nav-tabs.fl li .fa-user-plus:before{
+    color: #f39085;
     content: "\f097";
-    -webkit-animation: mymove .5s infinite;
-    animation: mymove .5s infinite
+    -webkit-animation: mymove 1.s infinite;
+    animation: mymove 1.0s infinite
      }
 
 @-webkit-keyframes mymove {
     from {
-        color: red
+        color: #ff0000ad4e
     }
 
     to {
@@ -115,7 +115,7 @@ ul.nav.nav-tabs.fl li .fa-user-plus:before {
 
 @keyframes mymove {
     from {
-        color: red
+        color: #ff0a0aad4e
     }
 
     to {
