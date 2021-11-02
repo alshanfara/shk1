@@ -262,8 +262,8 @@ button.fa.fa-sign-out.fl.btn.btn-primary {
 }
 
 span.corner.fa.fa-user.label.label-primary.fr.uc {
-    display: inline!important
-          width: 25%;
+    display: inline;
+          width: 25%!important;
 
 }
 
