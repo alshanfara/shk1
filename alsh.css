@@ -11,6 +11,12 @@ div#settings>.borderg.corner>div>.label.label-primary {
     float: left;
     min-width: 50%;
 }
+.ui-btn-inline{ 
+background:#008fae;
+color:#fff;
+width:100%;
+float:right;
+}
 
 .fa-dot-circle-o:before {
     content: "\f0e0";
