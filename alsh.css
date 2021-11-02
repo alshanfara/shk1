@@ -16,7 +16,17 @@ background:#008fae;
 color:#fff;
 width:100%;
 float:right;
+border:1px solid #008fae ;
+
 }
+
+input {
+    border-radius:5px 5px 5px 5px;
+width:100%;
+border:1px solid #008fae ;
+    color:#fff;
+}
+
 
 .fa-dot-circle-o:before {
     content: "\f0e0";
