@@ -3,8 +3,7 @@
 }
 .btn.minix.btn-primary.fa.fa-reply.fr{
         border-radius:15px 15px 15px 15px!important;
-background:#673AB7 !important;
-
+        background: #a77834 !important;
 }
 .fr.co{
 margin-right:10px;
@@ -34,23 +33,23 @@ width:190px!important;
 
 }
 .fl.u-pic {
-      box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 10px rgb(0 143 174 / 71%);
+      box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 20px rgb(197 146 73);
 border-radius: 90px 90px 90px 90px;
 
 }
 .btn-primary {
-    border-color: #6b2bf1!important;
+    border-color: #c59249!important;
 }
 div#settings>.borderg.corner>div>.label.label-primary {
     float: left;
     min-width: 50%;
 }
-.ui-btn-inline{color: #008fae;width:100%;float: left;}
+.ui-btn-inline{color: #c59249;width:100%;float: left;}
 
 input {
     border-radius:5px 5px 5px 5px;
-width:100%;
-border:1px solid #008fae ;
+    width:100%;
+    border: 1px solid #d1a656;
     color:#2a2a2a;
 }
 
@@ -74,7 +73,7 @@ div#settings>.borderg.corner>div>a {
 div#settings>.borderg.corner>div>input.stopic, div#settings>.borderg.corner>div>input.smsg {
     width: 99%!important;
     margin: 5px 1px;
-    border:1px solid #008fae;
+    border:1px solid #c59249;
     border-radius:10px 10px 10px 10px;
 }
 
@@ -99,7 +98,7 @@ div#settings>.borderg.corner>div>input {
     border-radius: 15px;
     text-align: center;
     width:50%!important;
-border:1px solid #008fae;
+border:1px solid #c59249;
 }
 
 
@@ -122,11 +121,11 @@ span.bwall.minix.badge.border,span.brooms.minix.badge.border {
 }
 
 ul.nav.nav-tabs.fl li a:hover {
-    background-color: #008fae;
+    background-color: #c59249;
     color: #fff;
 }
 .checkbox label {
-        color: #b1d0e3;
+        color: #d0a455;
         border-radius: none;
      }
 div#tlogins button.btn.btn-primary{
@@ -374,7 +373,7 @@ button.fa.fa-phone.call.fl.btn.btn-success {
 }
 
 .tablebox.footer.light.fl {
-    border-top: 1px solid #008fae
+    border-top: 1px solid #dab45f
 }
 
 img.fl.nosel.emobox {
@@ -402,7 +401,7 @@ a.fl.emobc:focus,i.fa.fa-smile-o:focus,.primaryborder:focus,.btn.btn-success:foc
 div#asim30 {
     background-image: linear-gradient(to bottom,#f1f3f4 0,#f1f3f4 100%);
     text-align: center;
-    color: #008fae;
+    color: #c59249;
     margin: -27px 0 -20px
 }
 
@@ -419,7 +418,7 @@ a#as0 {
     border-color: #e6e6fa;
     padding: 6px;
     margin-top: 2px;
-    color: #008fae;
+    color: #c59249;
     width: 106px;
     text-align: center;
     font: normal normal normal 14px/1 FontAwesome
@@ -446,8 +445,8 @@ button.btn.btn-primary.hand.borderg.corner.fa.fa-ban {
     border-radius: 6px;
     height: 27px;
     background-repeat: repeat-x;
-    border-color: #008fae;
-    background-image: linear-gradient(to bottom,#008fae 0,#008fae 100%);
+    border-color: #dab45f;
+    background-image: linear-gradient(to bottom,#dab45f 0,#c59249 100%);
     background-color: #c12e2a!important
 }
 
@@ -461,8 +460,8 @@ a.btn.minix.fa.fa-comment.fr {
     padding: 1px 4px 2px 5px;
     margin-top: 6px;
     background-repeat: repeat-x;
-    border-color: #008fae;
-    background-image: linear-gradient(to bottom,#008fae 0,#008fae 100%)
+    border-color: #dab45f;
+    background-image: linear-gradient(to bottom,#c59249 0,#dab45f 100%)
 
 }
 
@@ -544,7 +543,7 @@ label.fl.label.loginstat {
     margin-left: -4px!important;
     -webkit-transform: matrix(1,0,0,1,0,133)!important;
     color: #ffffff;
-    background: #008fae;
+    background: #dab45f;
     width: 13%!important;
 }
 
@@ -652,7 +651,7 @@ div#tlogins ::-webkit-scrollbar-button {
 }
 
 div#tlogins ::-webkit-scrollbar-thumb {
-    background: #008fae;
+    background: #c59249;
     border: 71px none #fff;
     border-radius: 31px;
     background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important
@@ -743,7 +742,7 @@ ul.nav.nav-tabs>li>a {
     margin: 0 0 0 13px;
     color: #fff;
     border: 0;
-    background-color: #008fae;
+    background-color: #dab45f;
     border-radius: 0;
     display: initial;
     width: 98%;
@@ -764,7 +763,7 @@ ul.nav.nav-tabs>li>a {
 
 ul.nav.nav-tabs>li.active>a {
     color: #fff;
-    background-color: #6b2bf1;
+    background-color: #c59249;
     border: 0;
     border-radius: 0;
     text-align: center;
@@ -797,7 +796,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
 }
 
 .nav>li>a:focus,.nav>li>a:hover {
-    color: #008fae
+    color: #c59249
 }
 
 input#u1,input#u2,input#pass1,input#u3,input#pass2 {
@@ -811,14 +810,13 @@ input#u1,input#u2,input#pass1,input#u3,input#pass2 {
     border-style: solid;
     border-right: 7px solid;
     border-left: 7px solid;
-    border-color: #008fae;
+    border-color: #c59249;
     border-left-style: double;
     border-right-style: double;
 }
 
 .checkbox {
-    position: absolute;
-    margin: 38px 0 0 -35px !important
+        margin: 38px 0 0 -35px !important;
 }
 
 label.ae.fa.label.fa-users.btnClAlGr.label-warning {
@@ -840,9 +838,9 @@ ul.nav.nav-tabs {
     padding: 10px 6px 2px 1px;
     border-radius: 0;
     margin-top: 20px;
-    border-left: 2px solid #008fae;
-    border-right: 2px solid #008fae;
-    background-image: -webkit-linear-gradient( 45deg ,#6b2bf1 25%,#008fae 45%,#157bbb4d 25%,#157bbb4d 50%,#157bbb4d 100%)!important;
+    border-left: 2px solid #ababab;
+    border-right: 2px solid #ababab;
+    background-image: -webkit-linear-gradient( 45deg ,#c59249 25%,#dab45f 45%,#000000 25%,#000000 50%,#0000008f 100%)!important;
 
     background: #ebebeb
 }
@@ -854,7 +852,7 @@ div#l1 {
 a#asim7 {
     font-size: 14px!important;
     width: 54px!important;
-    border: 1px solid #008fae;
+    border: 1px solid #c19043;
     margin-right: 0;
     float: right;
     padding: 5px 0 0 20px;
@@ -863,12 +861,12 @@ a#asim7 {
     margin-left: -6px;
     border-radius: 0;
     background-repeat: repeat;
-    border-bottom: 0 solid#e1e1e1
+    border-bottom: 0 solid#e1e1e1;
 }
 
 font.asim12 {
     border: 1px dotted#f0ad4e;
-    background-color: #6b2bf1;
+    background-color: #000000;
     padding: 1px 10px 3px 4px;
     color: #fff;
     border-radius: 1px;
@@ -884,7 +882,7 @@ font.asim12 {
 }
 
 font.asim11 {
-    background-color: #6b2bf1;
+    background-color: #000000;
     padding: 1px 0 2px;
     color: #fff;
     border-radius: 1px;
@@ -907,10 +905,10 @@ font.asim11 {
     height: 20px;
     color: #fff;
     border-left: 2px solid#8aeaec;
-    background-color: #008fae;
-    border-right: 2px solid #008fae;
+    background-color: #dab45f;
+    border-right: 2px solid #dab45f;
     border-radius: 0 0 1px 0;
-    border-bottom: 1px solid #6b2bf1;
+    border-bottom: 1px solid #c59249;
     margin-bottom: -5px;
     font-family: 'jazeera',FontAwesome;
     font-size: 13px!important;
@@ -1028,7 +1026,7 @@ button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary {
 a#asim7 {
     font-size: 14px!important;
     width: 54px!important;
-    border: 3px solid #6b2bf1;
+    border: 3px solid #dab45f;
     margin-right: 0;
     float: right;
     padding: 3px 0 0 20px;
@@ -1039,7 +1037,6 @@ a#asim7 {
     background-repeat: repeat;
     border-bottom: 0 solid#e1e1e1;
     -webkit-transform: matrix(1,0,0,1,0,-13)!important;
-   
 }
 
 iframe#smoke1 {
