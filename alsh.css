@@ -1,4 +1,13 @@
-  .fl.mini.u-msg{
+.fr.co{
+margin-right:10px;
+    transform: rotate(90deg);
+    border-radius: 5px!important;
+    height: 12px;
+    width: 19px!important;
+    margin-top: 4px;
+}
+     
+.fl.mini.u-msg{
 width:190px!important;
 
     }
