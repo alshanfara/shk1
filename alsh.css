@@ -1,3 +1,6 @@
+.label-warning[href]:focus, .label-warning[href]:hover {
+    background-color: #ec1f1f;
+}
 .u-msg.break.fl{
         background: #dab45f26;
                    border-radius:15px 0px 15px 0px;
