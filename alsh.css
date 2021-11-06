@@ -2,16 +2,13 @@
     background-color: #cf1e1e;
 }
 .u-msg.break.fl{
-        background: #dab45f26;
-                   border-radius:15px 0px 15px 0px;
-
-
+        background: #a3524d0d;
+        border-radius:15px 0px 15px 0px;
 }
 .fl.mini.u-msg {
     font-family: arial;
-    background: #dab45f0f;
-                   border-radius:15px;
-
+    background: #8d272103;
+    border-radius:15px;
 }
 
 .btn.minix.btn-primary.fa.fa-times.fl,.btn.minix.btn-primary.fa.fa-times.fr{
@@ -19,7 +16,7 @@
 }
 .btn.minix.btn-primary.fa.fa-reply.fr{
         border-radius:15px 15px 15px 15px!important;
-        background: #cf1e1e !important;
+        background: #a3524c !important;
 }
 .fr.co{
 margin-right:10px;
@@ -49,23 +46,22 @@ width:190px!important;
 
 }
 .fl.u-pic {
-      box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 20px rgb(197 146 73);
-border-radius: 90px 90px 90px 90px;
-
+      box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 10px rgb(144 43 36);
+      border-radius: 90px 90px 90px 90px;
 }
 .btn-primary {
-    border-color: #c59249!important;
+    border-color: #c3655e !important;
 }
 div#settings>.borderg.corner>div>.label.label-primary {
     float: left;
     min-width: 50%;
 }
-.ui-btn-inline{color: #c59249;width:100%;float: left;}
+.ui-btn-inline{color: #9a3730;width:100%;float: left;}
 
 input {
     border-radius:5px 5px 5px 5px;
     width:100%;
-    border: 1px solid #d1a656;
+    border: 1px solid #9d3932;
     color:#2a2a2a;
 }
 
@@ -89,7 +85,7 @@ div#settings>.borderg.corner>div>a {
 div#settings>.borderg.corner>div>input.stopic, div#settings>.borderg.corner>div>input.smsg {
     width: 99%!important;
     margin: 5px 1px;
-    border:1px solid #c59249;
+    border:1px solid #99352e;
     border-radius:10px 10px 10px 10px;
 }
 
@@ -114,7 +110,7 @@ div#settings>.borderg.corner>div>input {
     border-radius: 15px;
     text-align: center;
     width:50%!important;
-border:1px solid #c59249;
+border:1px solid #922e27;
 }
 
 
@@ -137,11 +133,11 @@ span.bwall.minix.badge.border,span.brooms.minix.badge.border {
 }
 
 ul.nav.nav-tabs.fl li a:hover {
-    background-color: #c59249;
+    background-color: #922d26;
     color: #fff;
 }
 .checkbox label {
-        color: #d0a455;
+        color: #bc5d57;
         border-radius: none;
      }
 div#tlogins button.btn.btn-primary{
@@ -389,7 +385,7 @@ button.fa.fa-phone.call.fl.btn.btn-success {
 }
 
 .tablebox.footer.light.fl {
-    border-top: 1px solid #dab45f
+    border-top: 1px solid #ababab
 }
 
 img.fl.nosel.emobox {
@@ -417,7 +413,7 @@ a.fl.emobc:focus,i.fa.fa-smile-o:focus,.primaryborder:focus,.btn.btn-success:foc
 div#asim30 {
     background-image: linear-gradient(to bottom,#f1f3f4 0,#f1f3f4 100%);
     text-align: center;
-    color: #c59249;
+    color: #b3544d;
     margin: -27px 0 -20px
 }
 
@@ -434,7 +430,7 @@ a#as0 {
     border-color: #e6e6fa;
     padding: 6px;
     margin-top: 2px;
-    color: #c59249;
+    color: #aa4a43;
     width: 106px;
     text-align: center;
     font: normal normal normal 14px/1 FontAwesome
@@ -461,8 +457,9 @@ button.btn.btn-primary.hand.borderg.corner.fa.fa-ban {
     border-radius: 6px;
     height: 27px;
     background-repeat: repeat-x;
-    border-color: #dab45f;
-    background-image: linear-gradient(to bottom,#dab45f 0,#c59249 100%);
+        background-color: #8c261f;
+    background-image: linear-gradient(
+90deg,#c0635c 0,rgba(190,97,90,0.5) 10%,rgba(203,96,179,0) 51%,rgba(197,105,98,0.5) 89%,#c56862 100%);
     background-color: #c12e2a!important
 }
 
@@ -476,8 +473,9 @@ a.btn.minix.fa.fa-comment.fr {
     padding: 1px 4px 2px 5px;
     margin-top: 6px;
     background-repeat: repeat-x;
-    border-color: #dab45f;
-    background-image: linear-gradient(to bottom,#c59249 0,#dab45f 100%)
+        background-color: #8c261f;
+    background-image: linear-gradient(
+90deg,#c0635c 0,rgba(190,97,90,0.5) 10%,rgba(203,96,179,0) 51%,rgba(197,105,98,0.5) 89%,#c56862 100%);
 
 }
 
@@ -559,7 +557,7 @@ label.fl.label.loginstat {
     margin-left: -4px!important;
     -webkit-transform: matrix(1,0,0,1,0,133)!important;
     color: #ffffff;
-    background: #dab45f;
+    background: #a5423b;
     width: 13%!important;
 }
 
@@ -609,10 +607,10 @@ label.label.label-primary.mini.fl {
     color: #fff;
     border: none!important;
     margin: 0;
-    border-left: 2px solid #f7d322!important;
+    border-left: 2px solid #ababab !important;
     padding: 1px 15px 0 0;
     border-radius: 0 0 0 1px!important;
-    border-bottom: 1px solid #f7d322!important;
+    border-bottom: 2px solid #ababab !important;
     font-family: 'jazeera',FontAwesome;
     font-size: 11px!important
 }
@@ -667,7 +665,7 @@ div#tlogins ::-webkit-scrollbar-button {
 }
 
 div#tlogins ::-webkit-scrollbar-thumb {
-    background: #c59249;
+    background: #97332c;
     border: 71px none #fff;
     border-radius: 31px;
     background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important
@@ -758,7 +756,6 @@ ul.nav.nav-tabs>li>a {
     margin: 0 0 0 13px;
     color: #fff;
     border: 0;
-    background-color: #dab45f;
     border-radius: 0;
     display: initial;
     width: 98%;
@@ -773,14 +770,18 @@ ul.nav.nav-tabs>li>a {
     height: 28px;
     border-right-style: ridge;
     font-family: 'jazeera',FontAwesome;
+    background-color: #8c261f;
+    background-image: linear-gradient(
+90deg,#c0635c 0,rgba(190,97,90,0.5) 10%,rgba(203,96,179,0) 51%,rgba(197,105,98,0.5) 89%,#c56862 100%);
 }
 
 
 
 ul.nav.nav-tabs>li.active>a {
     color: #fff;
-    background-color: #c59249;
-    border: 0;
+background-color: #8c261f;
+    background-image: linear-gradient(
+90deg,#c0635c 0,rgba(190,97,90,0.5) 10%,rgba(203,96,179,0) 51%,rgba(197,105,98,0.5) 89%,#c56862 100%);    border: 0;
     border-radius: 0;
     text-align: center;
     border-style: solid;
@@ -812,7 +813,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
 }
 
 .nav>li>a:focus,.nav>li>a:hover {
-    color: #c59249
+    color: #b5564f
 }
 
 input#u1,input#u2,input#pass1,input#u3,input#pass2 {
@@ -826,7 +827,7 @@ input#u1,input#u2,input#pass1,input#u3,input#pass2 {
     border-style: solid;
     border-right: 7px solid;
     border-left: 7px solid;
-    border-color: #c59249;
+    border-color: #ababab;
     border-left-style: double;
     border-right-style: double;
 }
@@ -856,9 +857,11 @@ ul.nav.nav-tabs {
     margin-top: 20px;
     border-left: 2px solid #ababab;
     border-right: 2px solid #ababab;
-    background-image: -webkit-linear-gradient( 45deg ,#c59249 25%,#dab45f 45%,#000000 25%,#000000 50%,#0000008f 100%)!important;
-
-    background: #ebebeb
+   
+background-color: #8c261f;
+   
+  background-image: linear-gradient(
+45deg,#95312a 0,rgb(190 96 88) 50%,rgb(154 55 48) 51%,rgb(154 55 48) 100%);
 }
 
 div#l1 {
@@ -868,7 +871,7 @@ div#l1 {
 a#asim7 {
     font-size: 14px!important;
     width: 54px!important;
-    border: 1px solid #c19043;
+    border: 1px solid #8c261f;
     margin-right: 0;
     float: right;
     padding: 5px 0 0 20px;
@@ -898,9 +901,9 @@ font.asim12 {
 }
 
 font.asim11 {
-    background-color: #000000;
+    background-color: #ababab;
     padding: 1px 0 2px;
-    color: #fff;
+    color: #060606;
     border-radius: 1px;
     border: 1px dotted#ffffff;
     text-align: center;
@@ -921,12 +924,14 @@ font.asim11 {
     height: 20px;
     color: #fff;
     border-left: 2px solid#ababab;
-    background-color: #dab45f;
-    border-right: 2px solid #dab45f;
+    border-right: 2px solid #a24039;
     border-radius: 0 0 1px 0;
-    border-bottom: 1px solid #c59249;
+    border-bottom: 1px solid #922c25;
     margin-bottom: -5px;
     font-family: 'jazeera',FontAwesome;
+    background-color: #8c261f;
+    background-image: linear-gradient(
+90deg,#c0635c 0,rgba(190,97,90,0.5) 10%,rgba(203,96,179,0) 51%,rgba(197,105,98,0.5) 89%,#c56862 100%);
     font-size: 13px!important;
     margin-right: -1px;
     padding: 2px 0 0;
@@ -943,9 +948,11 @@ div#tlogins button.btn.btn-primary {
     position: inherit;
     border-right: 4px dotted;
     border-left: 4px dotted;
-    border-color: #fff0a8;
     border-style: dotted double;
-    font-family: jazeera,FontAwesome
+    font-family: jazeera,FontAwesome;
+    background-color: #8c261f;
+    background-image: linear-gradient(
+90deg,#c0635c 0,rgba(190,97,90,0.5) 10%,rgba(203,96,179,0) 51%,rgba(197,105,98,0.5) 89%,#c56862 100%);
 }
 
 label.asim.ae.fa.label.label-primary {
@@ -1042,7 +1049,9 @@ button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary {
 a#asim7 {
     font-size: 14px!important;
     width: 54px!important;
-    border: 3px solid #dab45f;
+    border: 3px solid #9a362f;
+    background-image: linear-gradient(
+90deg,#c0635c 0,rgba(190,97,90,0.5) 10%,rgba(203,96,179,0) 51%,rgba(197,105,98,0.5) 89%,#c56862 100%);
     margin-right: 0;
     float: right;
     padding: 3px 0 0 20px;
