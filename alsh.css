@@ -1,3 +1,8 @@
+.u-msg {
+    font-family: arial;
+    background: #dab45f45;
+}
+
 .btn.minix.btn-primary.fa.fa-times.fl,.btn.minix.btn-primary.fa.fa-times.fr{
     border-radius:15px 15px 15px 15px!important;
 }
