@@ -1,5 +1,5 @@
-.label-warning[href]:focus, .label-warning[href]:hover {
-    background-color: #ec1f1f;
+.label-warning {
+    background-color: #cf1e1e;
 }
 .u-msg.break.fl{
         background: #dab45f26;
