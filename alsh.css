@@ -1,6 +1,10 @@
-.u-msg {
+.u-msg.break.fl{
+        background: #dab45f26;
+
+}
+.fl.mini.u-msg {
     font-family: arial;
-    background: #dab45f26;
+    background: #dab45f0f;
 }
 
 .btn.minix.btn-primary.fa.fa-times.fl,.btn.minix.btn-primary.fa.fa-times.fr{
