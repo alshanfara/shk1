@@ -830,6 +830,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
 }
 
 input#u1,input#u2,input#pass1,input#u3,input#pass2 {
+    font-family: 'jazeera',FontAwesome;
     margin: 0 0 5px -5.5px !important;
     width: 97%;
     height: 28px;
