@@ -565,7 +565,7 @@ label.fl.label.loginstat {
     width: 13%!important;
 }
 
-.label-danger {
+.label-danger,.broadcasters {
  background-image: linear-gradient(
 90deg,#bc0a3c 0,rgb(229 139 165) 30%,rgb(188 10 60) 51%,rgb(229 139 165) 100%);}
 
