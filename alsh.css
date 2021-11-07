@@ -61,12 +61,12 @@ div#settings>.borderg.corner>div>.label.label-primary {
     float: left;
     min-width: 50%;
 }
-.ui-btn-inline{color: #9a3730;width:100%;float: left;}
+.ui-btn-inline{color: #bf1443;width:100%;float: left;}
 
 input {
     border-radius:5px 5px 5px 5px;
     width:100%;
-    border: 1px solid #9d3932;
+    border: 1px solid #a70835;
     color:#2a2a2a;
 }
 
