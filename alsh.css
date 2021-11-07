@@ -477,8 +477,12 @@ button.btn.btn-primary.hand.borderg.corner.fa.fa-ban {
 .fa-user:before {
     margin-right: 4px
 }
-
-a.btn.minix.fa.fa-comment.fr {
+button.btn,.label-primary, .btn-primary, .bg-primary, .label-primary:hover, .btn-primary:hover, .btn-primary:focus{
+    border-radius:15px;
+     background-image: linear-gradient(
+90deg,#bc0a3c 0,rgb(229 139 165) 30%,rgb(188 10 60) 51%,rgb(229 139 165) 100%)!important;
+     }
+a.btn.minix.fa.fa-comment {
     color: #fff!important;
     border-radius: 4px;
     padding: 1px 4px 2px 5px;
