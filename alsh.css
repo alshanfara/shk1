@@ -51,7 +51,7 @@ width:190px!important;
 
 }
    .fl.u-pic {
-    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 10px rgb(201 59 99);
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 10px rgb(201 59 99 / 84%);
     border-radius: 90px 90px 90px 90px;
 }
 .btn-primary {
