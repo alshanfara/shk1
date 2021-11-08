@@ -1,3 +1,10 @@
+.emoi {
+    width: 21px;
+    max-width: 21px;
+    height: auto;
+    max-height: 21px;
+}
+
 .label-warning {
     background-color: #1ecfa3e8;
 }
