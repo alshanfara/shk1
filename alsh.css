@@ -1,12 +1,14 @@
 .ae.fa.label.label-primary.fa-microphone{
-width:1%;
+   width:6%;
 
- padding: 7px 12px 5px 9px;
-
-     border-radius: 3px 0 0 3px;
-      border-right: 3px solid;
-    border-left-style: groove;
-     }
+    padding: 7px 12px  5px 9px;
+    border-radius: 3px 0 0 3px;
+    border-style: solid;
+    border-right: 4px solid;
+    border-right-style: groove;
+    background-image: linear-gradient( 
+90deg,#bc0a3c 0,rgb(229 139 165) 30%,rgb(188 10 60) 51%,rgb(229 139 165) 100%)!important;
+}
 .emoi {
     width: 21px;
     max-width: 21px;
