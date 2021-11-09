@@ -57,7 +57,7 @@ width:190px!important;
 
 }
 .ae.fa.label.label-primary.fa-bullseye{
-      visibility: hidden;
+display:none!important;
  }
 
 .btn.active, .btn:active {
