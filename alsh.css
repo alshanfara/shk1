@@ -1,10 +1,3 @@
-span.corner.u-topic.dots {
-background-image: linear-gradient(
-45deg,#e385a0 0,rgb(220 126 146) 50%,rgb(188 10 60) 51%,rgb(221 127 148) 100%);
-color:#fff!important;
-border-radius:10px 0px 10px 0px!important;
-font-family: 'jazeera',FontAwesome;
-}
 
 .ae.fa.label.label-primary.fa-microphone{
     border-radius:1px;
