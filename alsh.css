@@ -32,14 +32,7 @@ background-image: linear-gradient(
         border-radius:15px 15px 15px 15px!important;
         background: #c93b63 !important;
 }
-.fr.co{
-margin-right:10px;
-    transform: rotate(60deg);
-    border-radius: 5px!important;
-    height: 12px;
-    width: 19px!important;
-    margin-top: 4px;
-}
+.fr.co{}
      
 .fl.mini.u-msg{
 width:190px!important;
