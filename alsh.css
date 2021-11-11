@@ -22,15 +22,8 @@ background-image: linear-gradient(
 .label-warning {
     background-color: #1ecfa3e8;
 }
-.u-msg.break.fl{
-        background: #f4d7df70;
-        border-radius: 10px 0px 10px 0px;
-}
-.fl.mini.u-msg {
-    font-family: arial;
-    background: #f2cfd929;
-    border-radius:15px;
-}
+
+
 
 .btn.minix.btn-primary.fa.fa-times.fl,.btn.minix.btn-primary.fa.fa-times.fr{
     border-radius:15px 15px 15px 15px!important;
@@ -73,7 +66,7 @@ display:none!important;
 }
    .fl.u-pic {
     box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 10px rgb(201 59 99 / 84%);
-    border-radius: 90px 90px 90px 90px;
+
 }
 .btn-primary {
     border-color: #fdd1e2 !important;
@@ -100,9 +93,10 @@ input {
 div#settings>.borderg.corner>div>a {
     width: 100%;
     background-color: #ffffff!important;
-    color: #5cb85f;
+    color: #ffffff;
     border-radius: 15px;
-    border: 2px solid #5CB85F;
+    background:#c01747;
+    border: 4px solid #da6989;
     border-width: 1px 3px;
     text-align: center;
     margin: 20px;
@@ -428,6 +422,14 @@ img.fl.nosel.emobox {
 img.fl.nosel.emo {
     margin-top: -1px
 }
+.ae.label.label-primary.fa.fa-bolt{
+    margin-left:-5px;
+      padding: 6px 2px 5px 9px;
+    border-radius: 0px 0 0 3px;
+    border-style: solid;
+    border-right: 4px solid;
+
+}
 
 .ae,button.btn {
     border-radius: 3px;
@@ -497,6 +499,9 @@ button.btn.btn-primary.hand.borderg.corner.fa.fa-ban {
 
 .fa-user:before {
     margin-right: 4px
+}
+.label:empty {
+    display: none!important;
 }
 button.btn,.label-primary, .btn-primary, .bg-primary, .label-primary:hover, .btn-primary:hover, .btn-primary:focus{
     border-radius:15px;
