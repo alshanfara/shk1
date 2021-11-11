@@ -193,9 +193,10 @@ a#Ø¹Ø§ØµÙ… {
 .ae.label.label-primary.fa.fa-gear {
     padding: 7px 5px 5px 13px;
     border-radius: 0;
-    margin-left: -3px!important;
+    margin-left: 80px!important;
     background-image: linear-gradient(
 90deg,#bc0a3c 0,rgb(229 139 165) 30%,rgb(188 10 60) 51%,rgb(229 139 165) 100%)!important;
+    border-right-width: medium;
 }
 
 .ae.fa.label.fa-commenting-o.label-primary {
@@ -415,12 +416,10 @@ img.fl.nosel.emo {
     margin-top: -1px
 }
 .ae.label.label-primary.fa.fa-bolt{
-    margin-left:-5px;
-      padding: 6px 2px 5px 9px;
-    border-radius: 0px 0 0 3px;
+    margin-left: -128px;
+    padding: 6px 2px 5px 9px;
+    border-radius: 0px 0 0 0px;
     border-style: solid;
-    border-right: 4px solid;
-
 }
 
 .ae,button.btn {
