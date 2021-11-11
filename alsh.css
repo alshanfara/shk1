@@ -85,7 +85,6 @@ input {
 }
 div#settings>.borderg.corner>div>a {
     width: 100%;
-    background-color: #ffffff!important;
     color: #ffffff;
     border-radius: 15px;
     background:#c01747;
