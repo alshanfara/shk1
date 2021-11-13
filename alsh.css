@@ -1,17 +1,11 @@
-.fitimg.fl.borderg.spic.corner.hand {
-
-width:200px!important;
-padding:90px!important;
-margin-left:6%!important;
- border:2px solid #ff00473b !important;
+.fitimg.fl.borderg.spic.corner.hand {width:200px!important;padding:90px!important;
+ margin-left: 11%!important;border:2px solid #ff00473b !important;
 }
 
 label.tc.border.btn.label-info.fl{
-    padding:20px!important;
-background:#d8628417 !important;
- color:#28282800 !important;
- border-radius:30px 30px 30px
-
+    background:#d8628417 !important;
+    border-radius:30px 30px 30px;
+    }
     }
 .fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg{ 
 
