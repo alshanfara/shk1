@@ -97,14 +97,15 @@ input {
     animation: mymove 1.101s infinite
 }
 div#settings>.borderg.corner>div>a {
-    width: 100%;
+   width: 100%;
     color: #ffffff;
     border-radius: 15px;
-    background:#c01747;
-    border: 4px solid #da6989;
-    border-width: 1px 3px;
+    background-image: linear-gradient(
+90deg,#bc0a3c 0,rgb(229 139 165) 30%,rgb(188 10 60) 51%,rgb(229 139 165) 100%)!important;
+ border-width: 1px 3px;
     text-align: center;
     margin: 20px;
+    margin-top: 3px;
 }
 div#settings>.borderg.corner>div>input.stopic, div#settings>.borderg.corner>div>input.smsg {
     width: 99%!important;
