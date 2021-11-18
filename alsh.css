@@ -1,3 +1,12 @@
+.fl.nosel.label.pnhead{
+border :1px solid #d65c7f !important;
+background:#d45478 !important;
+border-radius:20px;
+    font-family: 'jazeera',FontAwesome;
+    font-size:14px!important;
+        box-shadow: inset 0 1px 1px rgb(0 0 0 / 2%),0 0 6px rgb(255 255 255)
+
+}
 .broadcasters>div>.prod {
 background-image: url(https://f.top4top.io/p_2148uz0nz1.gif);
 border-radius:15px 5px!important;
