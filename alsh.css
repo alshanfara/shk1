@@ -5,7 +5,9 @@
     background-position: 100% 0%;
     background-color: #e079978c !important;
 }
-
+.light {
+    background: repeating-linear-gradient( 45deg,rgba(255,255,255,0.8),rgb(255,255,255) 100px,#ffffffb0 0,#fff6f699 200px ),repeating-linear-gradient( -45deg,rgba(255,255,255,0.5),rgba(255,255,255,0.93) 100px,#b3adadd1 0,#ffffffe6 200px )!important
+}
 .fl.ustat {
     border-radius: 15px 0!important;
     width: 6px!important;
