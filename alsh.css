@@ -1,4 +1,4 @@
-div#d2bc .uzr.fl.corner.borderg  {
+div#d2bc .uzr.fl.corner.borderg,.uzr.fl.corner.borderg.mm  {
     border-radius: 9px!important;
     margin: 3px 1px -1px 2px !important;
 
@@ -33,13 +33,7 @@ border-radius:20px;
 background-image: url(https://f.top4top.io/p_2148uz0nz1.gif);
 border-radius:15px 5px!important;
 }
-.pmsgc {
-    outline: 1px dashed #d9534f;
-      outline-offset: -5px;
-    background-size: auto;
-    background-position: 100% 0%;
-    background-color: #e079978c !important;
-}
+
 .light {
     background: repeating-linear-gradient( 45deg,rgba(255,255,255,0.8),rgb(255,255,255) 100px,#ffffffb0 0,#fff6f699 200px ),repeating-linear-gradient( -45deg,rgba(255,255,255,0.5),rgba(255,255,255,0.93) 100px,#b3adadd1 0,#ffffffe6 200px )!important
 }
@@ -689,16 +683,6 @@ span.corner.u-topic.dots {
     margin-top: 3px!important
 }
 
-.uzr.fl.corner.borderg.mm {
-    border-left: 2px solid #3e3e3e;
-    margin-left: 0!important;
-    border-radius: 0!important;
-    width: 100%!important;
-    border-top: .7px solid #eee!important;
-    border-bottom: .7px solid #eee!important;
-    margin-bottom: 0!important;
-    line-height: 26px
-}
 
 label.label.label-primary.mini.fl {
     pointer-events: none;
