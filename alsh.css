@@ -1,3 +1,9 @@
+.room.borderg.hand.nosel.fl .fa-microphone:before {
+    margin: 0 0 0 -18px;
+    font-size: 20px;
+    animation: mymove .70s infinite;
+    color:#red!important;
+}
 .istoa.fa.fa-microphone{ 
 color:#cc3b64 !important;
 margin-top: 15%!important;
