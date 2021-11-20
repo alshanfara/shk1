@@ -1,3 +1,13 @@
+div#d2bc .uzr.fl.corner.borderg  {
+    margin: 3px 1px -1px 2px !important;
+
+    background: repeating-linear-gradient( 
+45deg,hsla(0,0%,100%,.8),#fff 100px,hsla(0,0%,100%,.6901960784313725) 0,rgba(255,246,246,.6) 200px),repeating-linear-gradient( 
+-45deg,hsla(0,0%,100%,.5),hsla(0,0%,100%,.93) 100px,hsl(343deg 62% 68%) 0,hsla(0,0%,100%,.9019607843137255) 200px);
+    box-shadow: 0 0 1px 0 #000;
+
+}
+
 .room.borderg.hand.nosel.fl .fa-microphone:before {
     margin: 0 0 0 -18px;
     font-size: 20px;
