@@ -150,9 +150,9 @@ div#settings>.borderg.corner>div>.label.label-primary {
 }
 
 input {
-    border-radius: 5px 5px 5px 5px;
+    border-radius: 0PX;
     width: 100%;
-    border: 1px solid #4dcaaf;
+    border: 1px solid #70a4c2;
     color: #2a2a2a;
 }
 
