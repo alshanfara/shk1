@@ -40,13 +40,6 @@ border-radius:15px 5px!important;
     margin: 4px
 }
 
-.label.label-primary.fa.fa-bolt.ispoint {
-    width: 32%!important;
-    margin-left: 150px!important;
-    margin-top: -23px!important;
-    padding: 3px!important;
-    border: 1px solid #fff
-}
 
 .fitimg.fl.borderg.spic.corner.hand {
     width: 200px!important;
@@ -135,11 +128,6 @@ div#chats {
     border-color: #689bb8!important;
 }
 
-div#settings>.borderg.corner>div>.label.label-primary {
-    float: left;
-    min-width: 50%
-}
-
 .
 
 .ui-btn-inline {
@@ -161,23 +149,6 @@ input {
     animation: mymove 1.101s infinite
 }
 
-div#settings>.borderg.corner>div>a {
-    width: 100%;
-    color: #ffffff;
-    border-radius: 15px;
-    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
- border-width: 1px 3px;
-    text-align: center;
-    margin: 20px;
-    margin-top: 3px
-}
-
-div#settings>.borderg.corner>div>input.stopic,div#settings>.borderg.corner>div>input.smsg {
-    width: 99%!important;
-    margin: 5px 1px;
-    border: 1px solid #5e8fac;
-    border-radius: 10px 10px 10px 10px;
-}
 
 @font-face {
     font-family: 'jazeera';
@@ -195,13 +166,6 @@ div#settings>.borderg.corner>div>input.stopic,div#settings>.borderg.corner>div>i
     color: #FFF;
     text-decoration: none;
     font-family: 'jazeera',FontAwesome
-}
-
-div#settings>.borderg.corner>div>input {
-    border-radius: 15px;
-    text-align: center;
-    width: 50%!important;
-    border: 1px solid #5f90ad;
 }
 
 .fa-save:before.fa-remove:before,.fa-close:before,.fa-times:before {
