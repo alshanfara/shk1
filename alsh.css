@@ -332,14 +332,6 @@ a#asim10 {
     vertical-align: top
 }
 
-div#menu-l {
-    height: 55px;
-    width: 307px;
-    float: left;
-    position: absolute;
-    top: -11px;
-    right: -7px
-}
 
 .primaryborder {
     border-color: #008E91!important;
@@ -487,14 +479,6 @@ input[type="asim"] {
     text-align: center
 }
 
-button.btn.btn-primary.hand.borderg.corner.fa.fa-ban {
-    width: 77px;
-    border-radius: 6px;
-    height: 27px;
-    background-repeat: repeat-x;
-background-image: linear-gradient( 
-90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    background-color: #c12e2a!important
-}
 
 .fa-user:before {
     margin-right: 4px
