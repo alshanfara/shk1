@@ -349,18 +349,12 @@ div#menu-l {
     right: -7px
 }
 
-.ae {
-    border: 1px solid #afabab
-}
-
 .primaryborder {
     border-color: #008E91!important;
     border-radius: 0!important
 }
 
-button.fa.fa-sign-out.fl.btn.btn-primary {
-    margin-top: 0!important
-}
+
 
 span.corner.fa.fa-user.label.label-primary.fr.uc {
     display: inline;
