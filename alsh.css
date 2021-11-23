@@ -65,12 +65,17 @@ border-radius:15px 5px!important;
 }
 
 label.tc.border.btn.label-info.fl {
-    background: #c1e8e036!important;
+    background: #75a9c838!important;
     border-radius: 30px 30px 30px;
-    color: #0000!important;
+     color: #dee9f100!important; 
 }
 
+.label.tc.border.pmsg.btn.label-info.fl,label.tc.border.redit.btn.label-info.fl{
 
+color:#000!important;
+
+
+}
 
 .emoi {
     width: 21px;
@@ -435,6 +440,13 @@ button.btn,.label-primary,.btn-primary,.bg-primary,.label-primary:hover,.btn-pri
     background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
 }
 
+.corner.fa.fa-user.label.label-primary.fr.uc{
+
+    
+
+width:80px!important;
+
+}
 a.btn.minix.fa.fa-comment {
     color: #fff!important;
     border-radius: 4px;
