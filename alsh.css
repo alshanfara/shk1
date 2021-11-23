@@ -184,10 +184,6 @@ span.bwall.minix.badge.border,span.brooms.minix.badge.border {
     display: none!important
 }
 
-ul.nav.nav-tabs.fl li a:hover {
-    background-color: #922d26;
-    color: #fff
-}
 
 .checkbox label {
     color: #de809500;
