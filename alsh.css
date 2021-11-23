@@ -1,5 +1,5 @@
 .pmsgc {
-    box-shadow: inset 0 1px 100px rgb(85 208 181), 0 0 6px #d9edf7!important;  
+    box-shadow: inset 0 1px 100px rgb(104 154 184 / 91%), 0 0 6px #d9edf7!important;  
         outline-offset: -4px;
 }
 div#d2bc .uzr.fl.corner.borderg,.uzr.fl.corner.borderg.mm  {
@@ -8,7 +8,7 @@ div#d2bc .uzr.fl.corner.borderg,.uzr.fl.corner.borderg.mm  {
 
     background: repeating-linear-gradient( 
 45deg,hsla(0,0%,100%,.8),#fff 00px,hsla(0,0%,200%,.6901960784313725) 0,rgba(255,246,246,.6) 200px),repeating-linear-gradient( 
--45deg,hsla(0,0%,100%,.5),hsla(0,0%,100%,.93) 10px,hsl(167deg 54% 55% / 48%) 0,hsla(0,0%,100%,.9019607843137255) 200px);
+-45deg,hsla(0,0%,100%,.5),hsla(0,0%,100%,.93) 10px,hsl(201deg 35% 73% / 90%) 0,hsla(0,0%,100%,.9019607843137255) 200px);
     box-shadow: 0 0 1px 0 #000;
 
 }
@@ -25,7 +25,7 @@ color:#cc3b64 !important;
 margin-top: 15%!important;
 
 }
-.fl.nosel.label.pnhead{border: 1px solid #60dac0 !important;background: #41bfa4 !important;border-radius:20px;font-family: 'jazeera',FontAwesome;font-size:14px!important;box-shadow: inset 0 1px 1px rgb(0 0 0 / 2%),0 0 6px rgb(255 255 255);}
+.fl.nosel.label.pnhead{border: 1px solid #75aac9 !important;background: #5989a6 !important;border-radius:20px;font-family: 'jazeera',FontAwesome;font-size:14px!important;box-shadow: inset 0 1px 1px rgb(0 0 0 / 2%),0 0 6px rgb(255 255 255);}
 .broadcasters>div>.prod {
 background-image: url(https://f.top4top.io/p_2148uz0nz1.gif);
 border-radius:15px 5px!important;
@@ -52,7 +52,7 @@ border-radius:15px 5px!important;
     width: 200px!important;
     padding: 90px!important;
     margin-left: 11%!important;
-    border: 2px solid #5fd9bf5e!important;
+    border: 2px solid #79aecc!important;
 }
 
 label.tc.border.btn.label-info.fl {
@@ -63,7 +63,7 @@ label.tc.border.btn.label-info.fl {
 
 .label.tc.border.pmsg.btn.label-info.fl,label.tc.border.redit.btn.label-info.fl {
     color: #000000!important;
-    background: #5dd7bd70!important;
+    background: #74a8c74f!important;
 }
 
 .fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg {
@@ -88,7 +88,7 @@ background-image: linear-gradient(
 }
 
 .label-warning {
-    background-color: #1ecfa3e8
+    background-color: #fb403a;
 }
 
 div#chats {
@@ -104,7 +104,8 @@ div#chats {
 
 .btn.minix.btn-primary.fa.fa-reply.fr {
     border-radius: 15px 15px 15px 15px!important;
-    background: #c93b63!important
+    background: #d90404!important;
+    border: 1px solid #d90404!important;
 }
 
 .fr.co {
@@ -125,16 +126,14 @@ div#chats {
     display: none!important
 }
 
-.btn.active,.btn:active {
-background-image: linear-gradient( 
-90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;}
+.btn.active,.btn:active {}
 
 .fl.u-pic {
-    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 10px rgb(67 192 165);
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 10px rgb(117 170 201);
 }
 
 .btn-primary {
-    border-color: #1b9e82!important;
+    border-color: #689bb8!important;
 }
 
 div#settings>.borderg.corner>div>.label.label-primary {
@@ -167,8 +166,8 @@ div#settings>.borderg.corner>div>a {
     width: 100%;
     color: #ffffff;
     border-radius: 15px;
-background-image: linear-gradient( 
-90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-width: 1px 3px;
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+ border-width: 1px 3px;
     text-align: center;
     margin: 20px;
     margin-top: 3px
@@ -177,7 +176,7 @@ background-image: linear-gradient(
 div#settings>.borderg.corner>div>input.stopic,div#settings>.borderg.corner>div>input.smsg {
     width: 99%!important;
     margin: 5px 1px;
-    border: 1px solid #41bfa4;
+    border: 1px solid #5e8fac;
     border-radius: 10px 10px 10px 10px;
 }
 
@@ -203,7 +202,7 @@ div#settings>.borderg.corner>div>input {
     border-radius: 15px;
     text-align: center;
     width: 50%!important;
-    border: 1px solid #47c4a9;
+    border: 1px solid #5f90ad;
 }
 
 .fa-save:before.fa-remove:before,.fa-close:before,.fa-times:before {
@@ -274,18 +273,21 @@ a#Ø¹Ø§ØµÙ… {
     padding: 7px 5px 5px 13px;
     border-radius: 0;
     margin-left: 80px!important;
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+   border-right-width: medium
 }
 
 .ae.fa.label.fa-commenting-o.label-primary {
     padding: 7px 5px 5px 13px;
     margin-left: -4px!important;
     border-radius: 0;
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+ border-right-width: medium
 }
 
 .ae.fa.label.label-primary.fa-users {
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+  border-right-width: medium
     padding: 7px 5px 5px 13px;
     border-radius: 0;
     margin-left: -3px!important
@@ -299,7 +301,8 @@ background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64dd
     padding: 8px 13px 5px;
     margin-left: -7px!important;
     border-radius: 0;
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+  border-right-width: medium
 }
 
 .ae.fa.label.fa-commenting-o.label-warning {
@@ -558,7 +561,7 @@ background-image: linear-gradient(
 
 button.btn,.label-primary,.btn-primary,.bg-primary,.label-primary:hover,.btn-primary:hover,.btn-primary:focus {
     border-radius: 15px;
-    background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
 }
 
 a.btn.minix.fa.fa-comment {
@@ -567,7 +570,8 @@ a.btn.minix.fa.fa-comment {
     padding: 1px 4px 2px 5px;
     margin-top: 6px;
     background-repeat: repeat-x;
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+ border-right-width: medium
 }
 
 .fa-save:before,.fa-floppy-o:before {
@@ -644,12 +648,14 @@ label.fl.label.loginstat {
     margin-left: -4px!important;
     -webkit-transform: matrix(1,0,0,1,0,133)!important;
     color: #ffffff;
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+ border-right-width: medium
     width: 13%!important
 }
 
 .label-danger,.broadcasters {
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+  border-right-width: medium
 }
 
 .border {
@@ -844,12 +850,16 @@ ul.nav.nav-tabs>li>a {
     height: 28px;
     border-right-style: ridge;
     font-family: 'jazeera',FontAwesome;
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+    border-right-width: medium;
 }
 
 ul.nav.nav-tabs>li.active>a {
     color: #fff;
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+
+
+  border-right-width: medium
     border: 0;
     border-radius: 0;
     text-align: center;
@@ -924,7 +934,7 @@ ul.nav.nav-tabs {
     margin-top: 20px;
     border-left: 2px solid #ababab;
     border-right: 2px solid #ababab;
-    background-image: linear-gradient( 45deg,#57d2b8 0,rgb(51 179 151) 50%,rgb(11 144 115) 51%,rgb(15 148 119) 100%)
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
 }
 
 div#l1 {
@@ -933,7 +943,7 @@ div#l1 {
 
 font.asim12 {
     border: 1px dotted#f0ad4e;
-    background-color: #0e9376;
+    background-color: #6497b4;
     padding: 1px 10px 3px 4px;
     color: #fff;
     border-radius: 1px;
@@ -949,7 +959,7 @@ font.asim12 {
 }
 
 font.asim11 {
-    background-color: #21a387;
+    background-color: #73a7c6;
     padding: 1px 0 2px;
     color: #ffffff;
     border-radius: 1px;
@@ -973,7 +983,8 @@ font.asim11 {
     border-radius: 0 0 1px 0;
     margin-bottom: -5px;
     font-family: 'jazeera',FontAwesome;
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+  border-right-width: medium
     font-size: 13px!important;
     margin-right: -1px;
     padding: 2px 0 0;
@@ -992,7 +1003,8 @@ div#tlogins button.btn.btn-primary {
     border-left: 4px dotted;
     border-style: dotted double;
     font-family: jazeera,FontAwesome;
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+   border-right-width: medium
 }
 
 label.asim.ae.fa.label.label-primary {
@@ -1010,7 +1022,8 @@ label.asim.ae.fa.label.label-primary {
     border-style: solid;
     border-left: 4px solid;
     border-left-style: groove;
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+ border-right-width: medium
 }
 
 .tbox {
@@ -1090,7 +1103,8 @@ button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary {
 a#asim7 {
     font-size: 14px!important;
     width: 54px!important;
-background-image: linear-gradient( 90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;    border-right-width: medium
+    background-image: linear-gradient( 90deg,#45738e 0,#79aecd 30%,#45738e 51%,#79aecd 100%)!important;
+ border-right-width: medium
     margin-right: 0;
     float: right;
     padding: 3px 0 0 20px;
