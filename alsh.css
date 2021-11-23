@@ -1,3 +1,19 @@
+font.asim11 {
+    background-color: #73a7c6;
+    padding: 1px 0 2px;
+    color: #ffffff;
+    border-radius: 1px;
+    border: 1px dotted#ffffff;
+    text-align: center;
+    border-style: solid;
+    border-right: 7px solid;
+    border-left: 7px solid;
+    border-color: #fcf8e3;
+    border-left-style: double;
+    border-right-style: double;
+    font-family: 'jazeera',FontAwesome;
+    font-size: 13px!important;
+}
 .pmsgc {
     box-shadow: inset 0 1px 100px rgb(104 154 184 / 91%), 0 0 6px #d9edf7!important;  
         outline-offset: -4px;
