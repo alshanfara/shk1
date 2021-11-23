@@ -56,14 +56,14 @@ border-radius:15px 5px!important;
 }
 
 label.tc.border.btn.label-info.fl {
-    background: #d8628417!important;
+    background: #c1e8e036!important;
     border-radius: 30px 30px 30px;
-    color: #0000!important
+    color: #0000!important;
 }
 
 .label.tc.border.pmsg.btn.label-info.fl,label.tc.border.redit.btn.label-info.fl {
-    color: #be1142!important;
-    background: #fbdee3!important
+    color: #000000!important;
+    background: #5dd7bd70!important;
 }
 
 .fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg {
