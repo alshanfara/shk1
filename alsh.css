@@ -1024,12 +1024,9 @@ label.asim.ae.fa.label.label-primary {
 }
 
 .fa-user:before {
-    content: "\f02e"
+    content: "\f04e"
 }
 
-.fa-group:before,.fa-users:before {
-    content: "\f19c"
-}
 
 .label.ae.fa.chats.label.fa-comment.label-warning:before {
     content: "\f0e0";
