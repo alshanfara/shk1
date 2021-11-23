@@ -284,15 +284,7 @@ a#Ø¹Ø§ØµÙ… {
     border-bottom-right-radius: 0!important
 }
 
-iframe#asim30 {
-    height: 66px;
-    float: left;
-    border-bottom: 3px solid #e5032f;
-    background-color: #fff;
-    margin-top: -6px;
-    background-image: url(https://blog.iraqna.net/embed/11.svg);
-    background-size: contain
-}
+
 
 div#asim1 {
     text-align: center;
@@ -356,10 +348,6 @@ div#menu-l {
 
 
 
-span.corner.fa.fa-user.label.label-primary.fr.uc {
-    display: inline;
-    width: 25%!important
-}
 
 button.fa.fa-send.fl.btn.btn-primary {
     margin-top: 0!important
