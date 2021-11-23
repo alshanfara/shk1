@@ -162,11 +162,7 @@ input {
     src: local('Ø§Ù„Ø¬Ø²ÙŠØ±Ø© Ø®ÙÙŠÙ'),local(jazeera-light),url(https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.woff) format("woff")
 }
 
-.tcat a:link,.tcat_alink {
-    color: #FFF;
-    text-decoration: none;
-    font-family: 'jazeera',FontAwesome
-}
+
 
 .fa-save:before.fa-remove:before,.fa-close:before,.fa-times:before {
     display: none
