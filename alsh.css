@@ -552,13 +552,7 @@ label.label.fr.label-primary {
     border: #4cff7000
 }
 
-select.primaryborder.form-control.userRoom.selbox.fr.form-control {
-    border-radius: 3px!important;
-    height: 28px!important;
-    width: 72%!important;
-    padding: 4px 0!important;
-    font-size: 13px!important
-}
+
 
 div#tlogins .fa-user:before {
     margin-left: 1px;
