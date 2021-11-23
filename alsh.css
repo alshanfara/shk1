@@ -462,19 +462,6 @@ div#tlogins img.fitimg.fl.u-pic,.u-ico,img#asim70 {
     pointer-events: none
 }
 
-a#as0 {
-    text-decoration: none;
-    margin-right: 6px;
-    float: right;
-    border-radius: 3px;
-    border-color: #e6e6fa;
-    padding: 6px;
-    margin-top: 2px;
-    color: #c21e4c;
-    width: 106px;
-    text-align: center;
-    font: normal normal normal 14px/1 FontAwesome
-}
 
 iframe#asim29 {
     height: 68px;
