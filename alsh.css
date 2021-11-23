@@ -70,23 +70,7 @@ label.tc.border.btn.label-info.fl {
     color: #0000!important;
 }
 
-.label.tc.border.pmsg.btn.label-info.fl,label.tc.border.redit.btn.label-info.fl {
-    color: #000000!important;
-    background: #74a8c74f!important;
-}
 
-.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg {
-}
-
-.ae.fa.label.label-primary.fa-microphone {
-    border-radius: 1px;
-    padding: 8px 11px 5px 7px;
-    border-style: solid;
-    border-right: 3px solid;
-    margin-left: -1px!important;
-    border-radius: 0 3px 3px 0!important;
-background-image: linear-gradient( 
-90deg,#078d70 0,#64ddc3 30%,#078d70 51%,#64ddc3 100%)!important;}
 
 .emoi {
     width: 21px;
@@ -237,11 +221,7 @@ div#tlogins button.btn.btn-primary {
     }
 }
 
-a#Ø¹Ø§ØµÙ… {
-    color: #fff!important;
-    position: absolute;
-    right: 1px
-}
+
 
 .fl.fa.fa-sign-in.btn.btn-primary.dots.roomh.border.corner {
     padding: 1px 4px!important;
