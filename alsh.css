@@ -451,12 +451,6 @@ a.fl.emobc:focus,i.fa.fa-smile-o:focus,.primaryborder:focus,.btn.btn-success:foc
     box-shadow: none
 }
 
-div#asim30 {
-    background-image: linear-gradient(to bottom,#f1f3f4 0,#f1f3f4 100%);
-    text-align: center;
-    color: #b3544d;
-    margin: -27px 0 -20px
-}
 
 div#tlogins img.fitimg.fl.u-pic,.u-ico,img#asim70 {
     pointer-events: none
