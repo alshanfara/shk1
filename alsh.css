@@ -887,22 +887,7 @@ font.asim12 {
     font-size: 13px!important;
 }
 
-font.asim11 {
-    background-color: #73a7c6;
-    padding: 1px 0 2px;
-    color: #ffffff;
-    border-radius: 1px;
-    border: 1px dotted#ffffff;
-    text-align: center;
-    border-style: solid;
-    border-right: 7px solid;
-    border-left: 7px solid;
-    border-color: #fcf8e3;
-    border-left-style: double;
-    border-right-style: double;
-    font-family: 'jazeera',FontAwesome;
-    font-size: 13px!important;
-}
+
 
 #as43 {
     width: 68%;
