@@ -933,16 +933,20 @@ p {
     text-align: center;
 }
 p.alshanfara1{
+width:250px!important;
+border-radius:0px 0px 70px 70px!important;
 
     background-image: linear-gradient(90deg,#a5a5a5 0%,#a5a5a5 0%,#f0ad4e 51%,#a9a1a4 80%,#a5a5a5 100%)!important;
 }
 p.alshanfara2{
-
+width:250px!important;
     background-image: linear-gradient(90deg,#a5a5a5 0%,#a5a5a5 0%,#ff3535 51%,#a9a1a4 80%,#a5a5a5 100%)!important;
+border-radius:0px 0px 70px 70px!important;
+
 }
 
 .bg-primary{
-
-width:250px!important;
+border-radius:70px 70px 0px 0px!important;
+width:350px!important;
     
 }
