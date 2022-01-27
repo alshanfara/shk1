@@ -122,8 +122,8 @@ label.tc.border.btn.label-info.fl {
 input {
     border-radius: 0;
     width: 100%;
-    border: 1px solid #d10635;
-    color: #2a2a2a
+    border: 1px solid #008faf;
+    color: #2a2a2a;
 }
 
 .fa-dot-circle-o:before {
@@ -963,7 +963,4 @@ a#asim7,.ae.fa.label.label-primary.fa-user,div#tlogins button.btn.btn-primary,#a
     width: 350px!important
 }
 
-.typing {
-    color: #db0000!important;
-    margin-right: -7px!important
-}
+
