@@ -446,9 +446,14 @@ body.bg.center-block.bg.dad div#tlogins {
 }
 
 a.label.label-primary.fl {
-    display: none
+    margin:-90px 0 0 0;
 }
-
+.btn.fr.btn-success.fa.fa-refresh{
+    background:#008faf00;
+    border:1px  dashed  ;
+        margin: 67px 0px -38px 0!important;
+        animation: fa-spin 2s infinite linear;
+}
 label.label.fr.label-primary {
     border-radius: 3px!important;
     height: 28px!important;
