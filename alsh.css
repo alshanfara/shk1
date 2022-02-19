@@ -571,7 +571,25 @@ body {
 }
 
 div#tlogins .fr.borderg {
-    display: none
+}
+.label.label.label-primary.mini.fl {
+    padding: 1px!important;
+    border-radius: 15px!important;
+    width: 400px!important;
+
+  
+}
+.fr.borderg {
+    border: 0px;
+    margin-top: 0;
+    height: 0;
+}
+
+.fr.borderg, .fr.borderg a {
+    font-size: 10px!important;
+    padding: 0 5px!important;
+    position: relative;
+    color: #ffffff;
 }
 
 span.s1.fa.fa-user.label.badgex.label-as-badge.label-success {
@@ -812,6 +830,7 @@ font.asim12 {
     line-height: 14px;
     background: #008faf!important;
     border-right: 2px solid #ebd33e;
+    width: auto;
 }
 
 div#tlogins button.btn.btn-primary {
