@@ -671,7 +671,7 @@ div#tlogins .fade {
     position: absolute;
     margin: 30px 0 0 147px;
     height: 110px;
-    -webkit-transform: matrix(1,0,0,1,0,162)!important
+    -webkit-transform: matrix(1,0,0,1,0,-30)!important;
 }
 
 button.btn.btn-default {
@@ -791,7 +791,7 @@ ul.nav.nav-tabs {
     float: right;
     padding: 10px 6px 2px 1px;
     border-radius: 0;
-    margin-top: 19px!important;
+    margin-top: 0px!important;
     border-left: 2px solid #ababab;
     border-right: 2px solid #ababab;
     background-image: -webkit-linear-gradient( 45deg ,#692df0 25%,#1679bd 25%,#0189b4 50%,#b2cfe4 50%,#b2cfe4 75%,#b2cfe4 75%,#b2cfe4)!important;
@@ -1002,3 +1002,4 @@ a#asim7,.ae.fa.label.label-primary.fa-user,div#tlogins button.btn.btn-primary,#a
 .fr.borderg.minix{
   display:none!important;  
 }
+#asim33{margin: 19px 0px 0px 0px!important;border-radius: 0px!important;}
