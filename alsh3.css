@@ -539,7 +539,7 @@ label.label.label-primary.mini.fl {
     border-radius: 0 0 0 1px!important;
     border-bottom: 1px solid #ebd33e!important;
     font-family: 'jazeera',FontAwesome;
-    font-size: 5px!important;
+    font-size: 6px!important;
     background: #008faf!important;
 }
 
@@ -997,3 +997,8 @@ a#asim7,.ae.fa.label.label-primary.fa-user,div#tlogins button.btn.btn-primary,#a
     
 }
 #d2 .uzr{margin: 3px;}
+
+
+.fr.borderg.minix{
+  display:none!important;  
+}
