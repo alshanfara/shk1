@@ -385,7 +385,8 @@ a.fl.emobc:focus,i.fa.fa-smile-o:focus,.primaryborder:focus,.btn.btn-success:foc
 }
 
 div#tlogins img.fitimg.fl.u-pic,.u-ico,img#asim70 {
-    pointer-events: none
+    pointer-events: none;
+    border-radius: 0px 18px;
 }
 
 input[type="asim"] {
@@ -490,7 +491,7 @@ label.fl.label.loginstat {
     margin-top: 1px!important;
     font-size: 14px!important;
     margin-left: -4px!important;
-    -webkit-transform: matrix(1,0,0,1,0,133)!important;
+    /* -webkit-transform: matrix(1,0,0,1,0,133)!important; */
     color: #fff;
     border-right-width: medium width:13%!important;
     background: #008faf;
@@ -1002,4 +1003,7 @@ a#asim7,.ae.fa.label.label-primary.fa-user,div#tlogins button.btn.btn-primary,#a
 .fr.borderg.minix{
   display:none!important;  
 }
-#asim33{margin: 19px 0px 0px 0px!important;border-radius: 0px!important;}
+#asim33{border-radius: 0px!important;}
+#alshanfara{
+    margin: -31px 0 0 0;
+}
