@@ -65,9 +65,7 @@ font.asim11 {
 }
 
 label.tc.border.btn.label-info.fl {
-    background: #a3a3a324!important;
     border-radius: 30px 30px 30px;
-    color: #dee9f100!important
 }
 
 .label.tc.border.pmsg.btn.label-info.fl,label.tc.border.redit.btn.label-info.fl {
@@ -193,23 +191,24 @@ div#tlogins button.btn.btn-primary {
 }
 
 .fl.fa.fa-sign-in.btn.btn-primary.dots.roomh.border.corner {
-    padding: 1px 4px!important;
-    pointer-events: none
+    /* padding: 1px 4px!important; */
+    /* pointer-events: none; */
 }
 
 .ae.label.label-primary.fa.fa-gear {
     padding: 7px 5px 5px 13px;
     border-radius: 0;
-    margin-left: 80px!important;
     border-right-width: medium;
     background: #008faf!important;
+    margin: 1px 2px 0px -3px;
 }
 
-.ae.fa.label.fa-commenting-o.label-primary {
+.ae.fa.label.fa-story-o.label-primary,.ae.fa.label.fa-commenting-o.label-primary {
     padding: 7px 5px 5px 13px;
     margin-left: -4px!important;
     border-radius: 0;
-    border-right-width: medium
+    border-right-width: medium;
+    background: #008faf;
 }
 
 .ae.fa.label.label-primary.fa-users {
@@ -236,6 +235,7 @@ div#tlogins button.btn.btn-primary {
     margin-left: -4px!important;
     border-radius: 0;
     background: #008faf!important;
+    width: 66px;
 }
 
 .ae.fa.chats.label.fa-comment.label-warning {
@@ -990,4 +990,10 @@ a#asim7,.ae.fa.label.label-primary.fa-user,div#tlogins button.btn.btn-primary,#a
     width: 350px!important
 }
 
+#wall .btn.minix.btn-primary.fa.fa-times.fa{position: fixed;}
 
+.d2bcstory{
+    background-image: -webkit-linear-gradient( 45deg ,#692df0 25%,#1679bd 25%,#0189b4 50%,#b2cfe4 50%,#b2cfe4 75%,#b2cfe4 75%,#b2cfe4)!important;
+    
+}
+#d2 .uzr{margin: 3px;}
