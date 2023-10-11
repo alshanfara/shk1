@@ -46,9 +46,11 @@ font.asim11 {
 }
 
 .light {
-    background: repeating-linear-gradient(45deg,rgba(255,255,255,.8),rgb(255,255,255) 100px,#ffffffb0 0,#fff6f699 200px),repeating-linear-gradient(-45deg,rgba(255,255,255,.5),rgba(255,255,255,.93) 100px,#b3adadd1 0,#ffffffe6 200px)!important
+    background: repeating-linear-gradient(45deg,rgba(255,255,255,.8),rgb(255,255,255) 100px,#ffffffb0 0,#fff6f699 200px),repeating-linear-gradient(-45deg,rgba(255,255,255,.5),rgba(255,255,255,.93) 100px,#b3adadd1 0,#ffffffe6 200px)!important;
 }
-
+#lonline{
+    margin-top: 61px;
+}
 .fl.ustat {
     border-radius: 15px 0!important;
     width: 6px!important;
@@ -483,8 +485,8 @@ div#tlogins .fa-user:before {
 
 label.fl.label.loginstat {
     float: left!important;
-    border-radius: 0 7px 7px 0!important;
-    position: absolute;
+    border-radius: 0;
+    /* position: absolute; */
     top: 1px;
     left: 0;
     padding: 3px 6px 2px 8px!important;
@@ -495,6 +497,9 @@ label.fl.label.loginstat {
     color: #fff;
     border-right-width: medium width:13%!important;
     background: #008faf;
+    height: 20px!important;
+    width: 50px!important;
+    min-width: 40px!important;
 }
 
 .label-danger,.broadcasters {
@@ -693,14 +698,16 @@ textarea.as2020 {
 .nav-tabs {
     border-bottom: 0 solid #f0ad4e!important
 }
-
+#tlogins .fa.fa-eye{
+    margin: 0!important;
+}
 ul.nav.nav-tabs>li>a {
-    margin: 0 0 0 13px;
+    /* margin: 0 0 0 13px; */
     color: #fff;
     border: 0;
     border-radius: 0;
     display: initial;
-    width: 98%;
+    width: 91%;
     float: left;
     padding: 2px 0 0!important;
     text-align: center;
@@ -714,6 +721,7 @@ ul.nav.nav-tabs>li>a {
     font-family: 'jazeera',FontAwesome;
     border-right-width: medium;
     background: #008faf!important;
+    font-size: 13px!important;
 }
 
 ul.nav.nav-tabs>li.active>a {
@@ -731,8 +739,10 @@ ul.nav.nav-tabs>li.active>a {
 }
 
 ul.nav.nav-tabs>li {
-    width: 38%;
-    margin: -1px 59px 6px -13px
+    /* width: 38%; */
+    margin: -2px 0 0px -22px;
+    width: 134px;
+    margin-right: 17px;
 }
 
 ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.nav.nav-tabs>li>.fa-user:before {
@@ -838,7 +848,7 @@ font.asim12 {
 
 div#tlogins button.btn.btn-primary {
     top: 74px;
-    width: 43%;
+    width: 34%;
     right: 83px;
     height: 28px;
     padding: 0 0 3px;
@@ -850,6 +860,7 @@ div#tlogins button.btn.btn-primary {
     font-family: jazeera,FontAwesome;
     border-right-width: medium;
     background: #008faf!important;
+    margin-left: 20px;
 }
 
 label.asim.ae.fa.label.label-primary {
@@ -989,12 +1000,13 @@ a#asim7,.ae.fa.label.label-primary.fa-user,div#tlogins button.btn.btn-primary,#a
 .bg-primary {
     border-radius: 70px 70px 0 0px!important;
     width: 350px!important
+    
+}
+.label.bg.d-flex.fl{
+    height: 37px!important;
 }
 
-#wall .btn.minix.btn-primary.fa.fa-times.fa{position: fixed;}
-
 .d2bcstory{
-    background-image: -webkit-linear-gradient( 45deg ,#692df0 25%,#1679bd 25%,#0189b4 50%,#b2cfe4 50%,#b2cfe4 75%,#b2cfe4 75%,#b2cfe4)!important;
     
 }
 #d2 .uzr{margin: 3px;}
