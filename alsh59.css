@@ -575,9 +575,10 @@ body {
     background-size: contain;
     background-color: #f9f9f9!important
 }
-
-div#tlogins .fr.borderg {
+.fr.borderg .mini{
+    color:#008FAF
 }
+div#tlogins .fr.borderg {position: absolute;bottom: 0;}
 .label.label.label-primary.mini.fl {
     padding: 1px!important;
     border-radius: 15px!important;
@@ -1016,7 +1017,7 @@ a#asim7,.ae.fa.label.label-primary.fa-user,div#tlogins button.btn.btn-primary,#a
 
 
 .fr.borderg.minix{
-  display:none!important;  
+  /* display:none!important; */
 }
 #asim33{border-radius: 0px!important;}
 #alshanfara{
