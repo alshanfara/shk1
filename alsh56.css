@@ -853,7 +853,7 @@ div#tlogins button.btn.btn-primary {
     width: 34%;
     right: 83px;
     height: 28px;
-    padding: 0 0 3px;
+    padding: 0 0 3px!important;
     border-radius: 7%!important;
     position: inherit;
     border-right: 4px dotted;
@@ -863,6 +863,7 @@ div#tlogins button.btn.btn-primary {
     border-right-width: medium;
     background: #008faf!important;
     margin-left: 20px;
+    margin: -9px 0 0 21px!important;
 }
 
 label.asim.ae.fa.label.label-primary {
