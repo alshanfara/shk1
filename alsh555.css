@@ -839,11 +839,13 @@ font.asim12 {
     font-family: 'jazeera',FontAwesome;
     border-right-width: medium font-size:13px!important;
     margin-right: -1px;
-    padding: 2px 0 0;
+    padding: -2px 0 0;
     line-height: 14px;
     background: #008faf!important;
     border-right: 2px solid #ebd33e;
     width: auto;
+    border: 1px solid;
+    font-size: 13px!important;
 }
 
 div#tlogins button.btn.btn-primary {
